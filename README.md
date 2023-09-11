@@ -2,34 +2,50 @@
 ### Invoice Manager
 
 ## Table of Contents
-- [Creating Invoices for Customers (Direct and Wholesale Customers)](#project-name)
-- [Managing Your Products Data](#project-name)
-  - [Adding Products to the Database](#project-name)
-  - [Modifying Products in the Database](#project-name)
-  - [Deleting Products in the Database](#project-name)
-- [Managing Your Customers Data](#project-name)
-  - [Adding Customers to the Database](#project-name)
-  - [Modifying Customers in the Database](#project-name)
-  - [Deleting Customers in the Database](#project-name)
+- [Creating Invoices for Customers (Direct and Wholesale Customers)](#invoiceCreatingLayout)
+- [Managing Your Products Data](#ProductViewLayout)
+  - [Adding Products to the Database](#AddingProductLayout)
+  - [Modifying Products in the Database](#ProductViewLayout)
+  - [Deleting Products in the Database](#ProductViewLayout)
+- [Managing Your Customers Data](#CustomerViewLayout)
+  - [Adding Customers to the Database](#AddingCustomerLayout)
+  - [Modifying Customers in the Database](#CustomerViewLayout)
+  - [Deleting Customers in the Database](#CustomerViewLayout)
 - [Manage History](#project-name)
 - [More About](#about)
 
 
 ## ScreenShots
+  <a name="invoiceCreatingLayout"></a>
   ### Invoice Creating Layout
   ![Image Alt Text](./Screenshots/invoiceLayout.png)
-  ### Products View Layout
-  ![Image Alt Text](./Screenshots/invoiceLayout.png)
-  ### Customers View Layout
-  ![Image Alt Text](./images/example.png)
 
+
+  <a name="ProductViewLayout"></a>
+  ### Products View Layout
+  For Stationery
+  ![Image Alt Text](./Screenshots/ProductBooksLayout.png)
+
+  For Books
+  ![Image Alt Text](./Screenshots/ProductStationeryLayout.png)
+
+  <a name="CustomerViewLayout"></a>
+  ### Customers View Layout
+  ![Image Alt Text](./Screenshots/CustomerLayout.png)
+
+
+
+  <a name="AddingProductLayout"></a>
   ### Adding Products
   #### Stationery
-  ![Image Alt Text](./images/example.png)
+  ![Image Alt Text](./Screenshots/ProductAddingForStationery.png)
   #### Book
-  ![Image Alt Text](./images/example.png)
+  ![Image Alt Text](./Screenshots/ProductAddingForBooks.png)
 
 
+  <a name="AddingCustomerLayout"></a>
+  ### Adding Customers
+  ![Image Alt Text](./Screenshots/CustomerAdding.png)
 
 
 
