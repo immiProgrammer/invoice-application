@@ -17,9 +17,9 @@
 
 ## ScreenShots
   ### Invoice Creating Layout
-  ![Image Alt Text](./images/example.png)
+  ![Image Alt Text](./Screenshots/invoiceLayout.png)
   ### Products View Layout
-  ![Image Alt Text](./images/example.png)
+  ![Image Alt Text](./Screenshots/invoiceLayout.png)
   ### Customers View Layout
   ![Image Alt Text](./images/example.png)
 
