@@ -1,6 +1,7 @@
 # Invoice Application
 ### Invoice Manager
 **working on it**
+
 This Application is Created with PyQt5 + [qfluentwidgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
 
 ## Table of Contents
@@ -60,6 +61,7 @@ Creating Invoices with easy and simple steps.
 Full Name: **Imran Abid**
 
 Created by: [immi](mailto:mimranabid2@gmail.com)
+
 [Email me](mailto:mimranabid2@gmail.com)
 
 Provide a concise overview of your project. Explain its purpose, what problem it solves, or any goals you have for it. You can also include a badge indicating the project's status, like build passing or version number.
