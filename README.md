@@ -24,10 +24,10 @@
   <a name="ProductViewLayout"></a>
   ### Products View Layout
   For Stationery
-  ![Image Alt Text](./Screenshots/ProductBooksLayout.png)
+  ![Image Alt Text](./Screenshots/ProductStationeryLayout.png)
 
   For Books
-  ![Image Alt Text](./Screenshots/ProductStationeryLayout.png)
+  ![Image Alt Text](./Screenshots/ProductBooksLayout.png)
 
   <a name="CustomerViewLayout"></a>
   ### Customers View Layout
