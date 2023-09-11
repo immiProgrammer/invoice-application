@@ -1,5 +1,7 @@
 # Invoice Application
 ### Invoice Manager
+**working on it**
+This Application is Created with PyQt5 + [qfluentwidgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
 
 ## Table of Contents
 - [Creating Invoices for Customers (Direct and Wholesale Customers)](#invoiceCreatingLayout)
