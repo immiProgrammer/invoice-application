@@ -64,7 +64,6 @@ Created by: [immi](mailto:mimranabid2@gmail.com)
 <br>
 [Email me](mailto:mimranabid2@gmail.com)
 
-Provide a concise overview of your project. Explain its purpose, what problem it solves, or any goals you have for it. You can also include a badge indicating the project's status, like build passing or version number.
 
 <!-- ## Getting Started
 
