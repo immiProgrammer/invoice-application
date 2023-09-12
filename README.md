@@ -1,6 +1,6 @@
 # Invoice Application
 ### Invoice Manager
-**- I am still working on it**
+**- I am still working on it** -
 <br>
 This Application is Created with PyQt5 + [qfluentwidgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
 
